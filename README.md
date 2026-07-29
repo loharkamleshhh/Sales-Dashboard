@@ -12,7 +12,7 @@ The dashboard transforms raw sales data into actionable business insights throug
 
 > **Dashboard Screenshot**
 
-![Sales Performance Dashboard](dashboard_preview.png)
+![Sales Performance Dashboard](Sales_db.PNG)
 
 ---
 
